@@ -85,7 +85,7 @@ def compute_gflops_gpu(precision='S'):
 
 # %%
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
 
     #print('Single-precision performance: {} GFLOPS' .format(compute_gflops_cpu('S')))
     #print('Double-precision performance: {} GFLOPS' .format(compute_gflops_cpu('D')))
